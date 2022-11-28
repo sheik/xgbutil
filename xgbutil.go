@@ -5,9 +5,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xinerama"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/sheik/xgb"
+	"github.com/sheik/xgb/xinerama"
+	"github.com/sheik/xgb/xproto"
 )
 
 // Logger is used through xgbutil when messages need to be emitted to stderr.

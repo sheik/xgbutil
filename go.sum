@@ -1,0 +1,6 @@
+github.com/sheik/freetype-go v0.1.1 h1:Rn4+TeuQUbezChnGujkX0UOsO0KQbcPJ1uzoFgObSGQ=
+github.com/sheik/freetype-go v0.1.1/go.mod h1:dFQEATcTnhJjyezkUGGMSGOuHVrrggH4/7NCaGEgeEM=
+github.com/sheik/graphics-go v0.1.1 h1:u9OUbnen+a083UlqH/nRV5ToXBM14WooNj0HBziN3yw=
+github.com/sheik/graphics-go v0.1.1/go.mod h1:CaF1RX0E+szV19IOhPSuoTZS0WXsykrwygIsn1QUXmY=
+github.com/sheik/xgb v0.1.1 h1:J2tkdeaTbYf6db8FSlEFVjYQgJMZCk/54tdJeRAYmd4=
+github.com/sheik/xgb v0.1.1/go.mod h1:lfrSOGBT2UEe2h8oliygEvnk1QdpNzQjiduquyknxIk=

@@ -3,10 +3,10 @@ package keybind
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/sheik/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
+	"github.com/sheik/xgbutil"
+	"github.com/sheik/xgbutil/xevent"
 )
 
 // connect is essentially 'Connect' for either KeyPress or KeyRelease events.

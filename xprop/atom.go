@@ -12,9 +12,9 @@ request is sent for interning each atom.)
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/sheik/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/sheik/xgbutil"
 )
 
 // Atm is a short alias for Atom in the common case of interning an atom.

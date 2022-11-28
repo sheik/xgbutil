@@ -5,12 +5,12 @@
 package main
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xgraphics"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/sheik/xgb/xproto"
+	"github.com/sheik/xgbutil"
+	"github.com/sheik/xgbutil/keybind"
+	"github.com/sheik/xgbutil/xevent"
+	"github.com/sheik/xgbutil/xgraphics"
+	"github.com/sheik/xgbutil/xwindow"
 	"image"
 	"log"
 	"time"

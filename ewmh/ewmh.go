@@ -1,11 +1,11 @@
 package ewmh
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/sheik/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xprop"
+	"github.com/sheik/xgbutil"
+	"github.com/sheik/xgbutil/xevent"
+	"github.com/sheik/xgbutil/xprop"
 )
 
 // ClientEvent is a convenience function that sends ClientMessage events

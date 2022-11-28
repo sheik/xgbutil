@@ -3,10 +3,10 @@ package xprop
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/sheik/xgb"
+	"github.com/sheik/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/sheik/xgbutil"
 )
 
 // GetProperty abstracts the messiness of calling xgb.GetProperty.

@@ -3,10 +3,10 @@ package xinerama
 import "sort"
 
 import (
-	"github.com/BurntSushi/xgb/xinerama"
+	"github.com/sheik/xgb/xinerama"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xrect"
+	"github.com/sheik/xgbutil"
+	"github.com/sheik/xgbutil/xrect"
 )
 
 // Alias so we use it as a receiver to satisfy sort.Interface
